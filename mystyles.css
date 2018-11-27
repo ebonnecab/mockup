@@ -60,10 +60,10 @@ nav a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: calc(100% - 20px);
+    width: 100%;
 }
-
-.container{
-    display: grid;
-    place-items: center;
-    height: 100vh;
+.container {
+    height: 100%;
+    
 }
